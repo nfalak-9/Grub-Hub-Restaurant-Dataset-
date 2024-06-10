@@ -1,1 +1,1 @@
-# Grub-Hub-Restaurant-Dataset-
+# Grub-Hub Restaurant Dataset
